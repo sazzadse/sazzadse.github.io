@@ -1,26 +1,26 @@
 [
   {
     "id": "software-dev",
-    "icon": "./assets/images/logo/icon-dev.svg",
+    "icon": "./assets/images/logo/icon-dev.png",
     "title": "Software Development",
-    "description": "Developing scalable and secure full-stack web applications with clean architecture and modern frameworks."
+    "description": "Developing scalable and maintainable enterprise web applications using .NET technologies, focusing on clean architecture and performance."
   },
   {
-    "id": "ai-solutions",
-    "icon": "./assets/images/logo/icon-ai.svg",
-    "title": "AI Solutions",
-    "description": "Building custom AI models and intelligent systems to automate workflows and enhance decision-making."
+    "id": "erp-solutions",
+    "icon": "./assets/images/logo/icon-erp.png",
+    "title": "ERP Solutions",
+    "description": "Designing and customizing ERP systems to streamline business processes for industries like pharmaceutical, manufacturing, and retail."
   },
   {
-    "id": "mobile-apps",
-    "icon": "./assets/images/logo/icon-app.svg",
-    "title": "Mobile Applications",
-    "description": "Designing and developing cross-platform mobile application for enterprise software with intuitive user experiences."
+    "id": "dbs-integration",
+    "icon": "./assets/images/logo/icon-dbs.png",
+    "title": "Database & System Integration",
+    "description": "Building efficient database solutions and integrating APIs to ensure reliable data flow and system interoperability."
   },
   {
     "id": "busniess-dev",
-    "icon": "./assets/images/logo/icon-BusinessDev.svg",
+    "icon": "./assets/images/logo/icon-BusinessDev.png",
     "title": "Business Development",
-    "description": "Identifying growth opportunities, building client relationships, and aligning technical solutions with business goals to drive sustainable success."
+    "description": "Collaborating with stakeholders, understanding business requirements, and aligning technical solutions with organizational goals."
   }
 ]
