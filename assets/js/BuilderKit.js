@@ -465,6 +465,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     renderTimelineItems(data.educations, "education-list");
     renderTimelineItems(data.certifications, "certifications-list");
     renderTimelineItems(data.workshops, "workshop-list");
+    renderTimelineItems(data.thesis, "thesis-list");
 
   } catch (error) {
     console.error("Failed to load data:", error);

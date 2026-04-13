@@ -1,84 +1,63 @@
 [
     {
-      "designation": "Software Analyst | AI Engineer",
+      "designation": "Executive (IT) | Senior Software Engineer",
       "organization": "Orion Group",
-      "date": "November 2023 — Present",
+      "date": "October 2023 — Present",
       "jobs": [
-        "- AI Projects: Developed and deployed solutions for Medicine Sales Prediction, Employee Assessment Tracking, and License Plate Detection using Machine Learning and AI-driven models.",
-        "- Enterprise Software Solutions: Designed and implemented SMS Broadcast System (SMS Boom Cast) and an Employee Requisition & Recruitment Management System to streamline organizational workflows.",
-        "- Software Customization Projects: Employee Appraisal System, Restaurant POS & Online Reporting System, Orion Gym Management System, E-Document Tracking System.",
-        "- Leadership & Technology Stack: Served as Software Team Lead, overseeing end-to-end development, customization, and deployment of solutions using ASP.NET, WPF, SQL Server 2012, Java, and Android Native."
+        "✓ Design and develop Employee Monthly Appraisal System, Yearly Appraisal System and Final Settlement System.",
+        "✓ Build internal tools such as a Circular Management System and an Employee Search Portal to streamline organizational communication and employee data access.",
+        "✓ Contribute across the full software development lifecycle (SDLC), including requirement analysis, system design, development, testing, deployment, and support.",
+        "✓ Design and develop enterprise applications and internal business systems using C#, ASP.NET MVC/Core, ASP.NET Web Forms, MSSQL, Entity Framework, and LINQ.",
+        "✓ Write and optimize advanced T-SQL queries, stored procedures, and functions to support complex business logic and reporting.",
+        "✓ Create responsive and user-friendly interfaces using Angular, JavaScript, jQuery, HTML5, CSS3, and Bootstrap.",
+        "✓ Collaborate closely with IT leadership and business stakeholders to deliver scalable, secure, and high-performance solutions, while contributing to architecture planning and performance optimization."
+        ]
+    },
+    {
+      "designation": "Senior Software Engineer",
+      "organization": "Avalanche Technologies Limited",
+      "date": "January 2022 - October 2023",
+      "jobs": [
+        "✓ Played a key role in system architecture, module design, and performance optimization.",
+        "✓ Delivered and enhanced ERP modules for Pharmaceutical, Manufacturing, Retail, and Government Enterprises.",
+        "✓ Led the design and development of scalable ERP systems using ASP.NET MVC, C#, MSSQL, Entity Framework, and LINQ.",
+        "✓ Designed and integrated enterprise reporting solutions using Crystal Reports.",
+        "✓ Mentored junior developers through code reviews, technical guidance, and best practices.",
+        "✓ Worked closely with the development manager on feature planning, optimization strategies, and architectural decisions.",
+        "✓ Actively contributed to sprint planning, technical discussions, and long-term system improvements."
       ]
     },
     {
-      "designation": "Analyst Programmer",
-      "organization": "Logic Software Limited",
-      "date": "August 2022 - October 2023",
+      "designation": "Software Engineer",
+      "organization": "Avalanche Technologies Limited",
+      "date": "January 2020 - December 2021",
       "jobs": [
-        "- Customized ERP Development: Delivered tailored ERP solutions for Aftab Bohumukhi Ltd, Arif Agro, and Asrotex Group, addressing unique business process requirements.",
-        "- Customer DMS Software: Designed and implemented Document Management System (DMS) solutions for Fokir Appeals Ltd and Asrotex Group, enabling efficient document tracking and customer service management.",
-        "- Leadership & Technology Stack: Served as Software Team Lead, overseeing end-to-end development, customization, and deployment of solutions using ASP.NET, WPF, SQL Server 2012, Java, and Android Native."
-      ]
-    },
-    {
-      "designation": "CTM SAP - MM Module (OHAL & POWER)",
-      "organization": "Orion Group",
-      "date": "December 2021 - July 2022",
-      "jobs": [
-        "- SAP Landscape Management: Oversaw the overall SAP system landscape, ensuring smooth integration across modules.",
-        "- Module Expertise: Specialized in SAP MM submodules and related business processes.",
-        "- Master Data Management: Prepared and maintained Material, Vendor, and Service Master Data to ensure accuracy and consistency.",
-        "- Procurement Lifecycle: Managed vendor selection and enrolment, purchase requisitions, quotations, comparative statements, and purchasing processes (local, asset, subcontracting).",
-        "- Logistics & Quality: Supervised material receipts, incoming quality control, and ensured compliance with organizational standards.",
-        "- Finance & Settlement: Coordinated the settlement of vendor bills, stock accounting, and valuation to align with financial reporting requirements.",
-        "- Inventory Management: Administered inventory control, stock transfers, and material loan processes to maintain supply chain efficiency.",
-        "- Customization & Reporting: Designed and delivered custom SAP forms and reports to meet business and regulatory needs."
+        "✓ Designed and developed web-based ERP applications using C#, ASP.NET MVC, MSSQL, Entity Framework, and LINQ.",
+        "✓ Implemented business modules supporting pharmaceutical, manufacturing, retail, and government clients.",
+        "✓ Developed and optimized T-SQL queries, stored procedures, and reports to support complex business workflows.",
+        "✓ Built dynamic user interfaces using JavaScript, jQuery, HTML5, CSS3, and Bootstrap.",
+        "✓ Collaborated with senior engineers and project leads on feature implementation, system improvements, and bug fixes.",
+        "✓ Participated in technical discussions, requirement analysis, and sprint planning."
       ]
     },    
     {
-      "designation": "Senior Software Engineer",
-      "organization": "Orion Group",
-      "date": "January 2015 - December 2017",
+      "designation": "Junior Software Engineer",
+      "organization": "Avalanche Technologies Limited",
+      "date": "April 2018 - December 2019",
       "jobs": [
-        "- Mobile Application Development: Orion Scholars (Android + Admin Panel), Orion Portal (iOS), PMH Apps (Android).",
-        "- Enterprise Software Solutions: Orion Online Exam, Vehicle Management System, Orion Gym Management System, Material Management System (MM), Product Management System (PM).",
-        "- Software Customization Projects: Employee Appraisal System, Restaurant POS & Online Reporting System, Orion Gym Management System, E-Document Tracking System.",
-        "- Leadership & Technology Stack: Served as Software Team Lead, overseeing end-to-end development, customization, and deployment of solutions using ASP.NET, WPF, SQL Server 2012, Java, and Android Native."
+        "✓ Worked on ERP application development, bug fixing, and feature enhancements.",
+        "✓ Strengthened expertise in ASP.NET MVC, C#, MSSQL, and frontend technologies.",
+        "✓ Gained hands-on experience in real-world enterprise software development."
       ]
     },
     {
-      "designation": "Software Engineer",
-      "organization": "Orion Group",
-      "date": "January 2015 - December 2017",
+      "designation": "Client Executive",
+      "organization": "Getweb Inc.",
+      "date": "July 2017 - February 2018",
       "jobs": [
-        "- Enterprise Solutions: Supply Chain Management System, Employee Appraisal System (Monthly & Yearly), E-Document Tracking System.",
-        "- Business Applications: Restaurant POS & Online Reporting System (Takeaway & Dine-In), Orion Portal (Android App).",
-        "- ERP Implementation: Led ERP rollout for Orion Home Appliances, including system configuration and integration.",
-        "- Technology Stack: Developed projects using ASP.NET, WPF, MVC, SQL Server 2012, Java, and Android Native.",
-        "- Business Analysis & Development: Collected requirements, translated them into technical specifications, and oversaw full software development lifecycle.",
-        "- Research & Innovation: Conducted R&D on emerging technologies and cross-platform frameworks to enhance solution scalability and adaptability."
-      ]
-    },
-    {
-      "designation": "Software Engineer",
-      "organization": "Nitol Niloy Group",
-      "date": "December 2013 - December 2014",
-      "jobs": [
-        "- Automation Project: Niloy Hero Automation – Spare Parts Management and Workshop Operations.",
-        "- Key Projects: Fixed Asset Register, Inventory Management System, and Servicing Center Solution.",
-        "- Technology Stack: Designed and developed applications using ASP.NET and SQL Server 2008 R2.",
-        "- Business Analysis: Gathered requirements, prepared functional specifications, and translated business needs into technical solutions.",
-        "- Innovation & R&D: Researched and evaluated emerging technologies to improve system performance and cross-platform adaptability."
-      ]
-    },
-    {
-      "designation": "Programmer",
-      "organization": "Flora Systems Limited",
-      "date": "March 2012 - December 2013",
-      "jobs": [
-        "- Key Project: Flora EFTN (Electronic Fund Transfer Network).",
-        "- Technology Stack: Developed and implemented solutions using ASP.NET and SQL Server Management.",
-        "- Innovation & Research: Conducted R&D on emerging technologies to enhance system performance and explore cross-platform solutions."
+        "✓ Managed and maintained client relationships.",
+        "✓ Presented software solutions to clients and supported requirement understanding and negotiations.",
+        "✓ Built strong communication and stakeholder management skills."
       ]
     }
   ]
