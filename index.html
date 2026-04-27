@@ -438,10 +438,7 @@
                 <button class="active" data-filter-btn data-value="all">All</button>
               </li>
               <li class="filter-item">
-                <button data-filter-btn data-value="ai-solutions">AI Solutions</button>
-              </li>
-              <li class="filter-item">
-                <button data-filter-btn data-value="software">Software</button>
+                <button data-filter-btn data-value="erp-solutions">ERP Solutions</button>
               </li>
               <li class="filter-item">
                 <button data-filter-btn data-value="application">Application</button>
@@ -467,10 +464,7 @@
                   <button data-select-item data-value="all">All</button>
                 </li>
                 <li class="select-item">
-                  <button data-select-item data-value="ai-solutions">AI Solutions</button>
-                </li>
-                <li class="select-item">
-                  <button data-select-item data-value="software">Software</button>
+                  <button data-select-item data-value="erp-solutions">ERP Solutions</button>
                 </li>
                 <li class="select-item">
                   <button data-select-item data-value="application">Application</button>
@@ -568,7 +562,7 @@
 
           <!-------- Contact Form -------->
           <section class="contact-form">
-            <form action="mailto:sazzad.se@gmail.com" method="POST" class="form" enctype="text/plain" data-form>
+            <!-- <form action="mailto:sazzad.se@gmail.com" method="POST" class="form" enctype="text/plain" data-form>
               <div class="input-wrapper">
                 <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input/>
                 <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input/>
@@ -583,10 +577,23 @@
                 <ion-icon name="paper-plane"></ion-icon>
                 <span>Send Message</span>
               </button>
+            </form> -->
+            <form action="https://formspree.io/f/xlgakwjv" method="POST" class="form">
+              <div class="input-wrapper">
+                <input type="text" name="fullname" class="form-input" placeholder="Full name" required/>
+                <input type="email" name="email" class="form-input" placeholder="Email address" required/>
+              </div>
+              <div class="subject-input-wrapper">
+                <input type="text" name="subject" class="form-input" placeholder="Subject" required/>
+              </div>
+              <textarea name="message" class="form-input" placeholder="Your Message" required></textarea>
+              <button class="form-btn" type="submit">
+                <ion-icon name="paper-plane"></ion-icon>
+                <span>Send Message</span>
+              </button>
             </form>
           </section>
         </article>
-
       </div>
     </main>
  

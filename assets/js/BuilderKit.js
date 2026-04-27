@@ -215,7 +215,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
 
     const projects = await projectsResponse.json();
-    const sortedProjects = projects.sort((a, b) => b.id - a.id);
+    const sortedProjects = projects.sort((a, b) => a.id - b.id);
 
     renderProjects(sortedProjects);
     initFilters();

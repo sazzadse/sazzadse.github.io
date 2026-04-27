@@ -1,34 +1,50 @@
 [
   {
     "id": "post1",
-    "title": "The Future is Remote: Why, How, and Where to Begin Your Remote Work Journey",
-    "url": "https://techaid24.com/future-is-remote-work/",
-    "image": "./assets/images/post/post1.png",
-    "category": "Career",
-    "date_published": "May 1, 2025"
+    "title": "Artificial Intelligence (AI): Foundations, trends and future directions",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2772503025000799",
+    "image": "./assets/images/post/AI_Foundations_trends_and_future.jpg",
+    "category": "AI",
+    "date_published": "December 2025"
   },
   {
     "id": "post2",
-    "title": "Learn the OWASP API Security Top 10: Essential Guide to API Security Fundamentals",
-    "url": "https://techaid24.com/owasp-api-security-top-10/",
-    "image": "./assets/images/post/post2.jpg",
-    "category": "API Security",
-    "date_published": "February 21, 2024"
+    "title": "The Future of AI: Trends You Need to Know",
+    "url": "https://www.datacamp.com/blog/future-of-ai?utm_cid=19589720824&utm_aid=152984013054&utm_campaign=230119_1-ps-other~dsa-tofu~all_2-b2c_3-apac_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&utm_loc=1001441-&utm_mtd=-c&utm_kw=&utm_source=google&utm_medium=paid_search&utm_content=ps-other~apac-en~dsa~tofu~blog~artificial-intelligence&gad_source=1&gad_campaignid=19589720824&gbraid=0AAAAADQ9WsF1rz57QAWXfGQph7a-PmBAi&gclid=CjwKCAjw14zPBhAuEiwAP3-Eb05gH7nbYVtbRjzz55SvDZ1ZdN6lF0ae5m4bUoWNwunSJstboHHRfRoCJ9MQAvD_BwE",
+    "image": "./assets/images/post/The_Future_of_AI.jpg",
+    "category": "AI",
+    "date_published": "February 2026"
   },
   {
     "id": "post3",
-    "title": "The Key Differences Between Web Services and Microservices Explained",
-    "url": "https://techaid24.com/owasp-api-security-top-10/",
-    "image": "./assets/images/post/post3.png",
-    "category": "Microservice Architecture",
-    "date_published": "June 26, 2024"
+    "title": "Azure for .NET developers",
+    "url": "https://learn.microsoft.com/en-us/dotnet/azure/",
+    "image": "./assets/images/post/Azure_for_.NET_developers.jpg",
+    "category": "Azure",
+    "date_published": "April 2026"
   },
   {
     "id": "post4",
-    "title": "সুপারভাইজড বনাম আনসুপারভাইজড বনাম রিইনফোর্সমেন্ট লার্নিং : মেশিন লার্নিংয়ের ৩টি স্তম্ভ",
-    "url": "https://techaid24.com/supervised-unsupervised-reinforcement/",
-    "image": "./assets/images/post/post4.png",
-    "category": "AI Engineering",
-    "date_published": "April 17, 2025"
+    "title": "The Importance of Design Patterns in .NET Core Development",
+    "url": "https://www.c-sharpcorner.com/article/the-importance-of-design-patterns-in-net-core-development/",
+    "image": "./assets/images/post/Importance_of_Design_Patterns_in_.NET.jpg",
+    "category": "Design Patterns",
+    "date_published": "March 2025"
+  },
+  {
+    "id": "post5",
+    "title": "What is artificial intelligence (AI)?",
+    "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+    "image": "./assets/images/post/What_is_AI.jpg",
+    "category": "AI",
+    "date_published": "July 2025"
+  },
+  {
+    "id": "post6",
+    "title": "Understanding Design Patterns in .NET",
+    "url": "https://benedictodoh.medium.com/understanding-design-patterns-in-net-e6bfeeecdc0e",
+    "image": "./assets/images/post/Understanding_Design_Patterns_in_.NET.jpg",
+    "category": "Design Patterns",
+    "date_published": "February 2026"
   }
 ]
